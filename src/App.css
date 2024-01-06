@@ -1,11 +1,9 @@
-.App {
-  text-align: center;
-}
 
+/* html,body{ background-image: linear-gradient(to right, #f9ccac, #f9ccacAA);}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
+} */
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
